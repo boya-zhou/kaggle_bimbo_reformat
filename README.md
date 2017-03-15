@@ -1,5 +1,6 @@
 bimbo_kaggle_competition
 ==============================
+Author: Boya Zhou
 
 Project for Bimbo Kaggle Competition
 
