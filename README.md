@@ -2,7 +2,15 @@ bimbo_kaggle_competition
 ==============================
 Author: Boya Zhou
 
-Project for Bimbo Kaggle Competition
+Project for Bimbo Kaggle Competition, get top 4% in private leader board
+
+1. download data from Bimbo Kaggle website
+2. extract train.csv and test.csv in /data/raw
+3. extract the producto_tabla, cliente_tabla and town_tabla in /data/external
+4. ```make create_environment``` to create virtual enviornment
+5. ```make requirements``` to install requirements
+6. ```make build_features``` will do feature and return train, train_label, holdout and test
+7. ```make train_predict```train by xgboost and make prediction
 
 Project Organization
 ------------
