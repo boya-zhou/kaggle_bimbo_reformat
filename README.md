@@ -11,7 +11,7 @@ Project for Bimbo Kaggle Competition, get top 4% in private leader board
 5. ```make requirements``` to install requirements
 6. ```make build_features``` will do feature and return train, train_label, holdout and test
 7. ```make train_predict```train by xgboost and make prediction
-8. quick check data [processing code] (https://github.com/boya-zhou/kaggle_bimbo_reformat/blob/master/src/features/build_features.py)
+8. quick check data [processing code](https://github.com/boya-zhou/kaggle_bimbo_reformat/blob/master/src/features/build_features.py)
 
 Project Organization
 ------------
